@@ -1,3 +1,5 @@
+LOCAL
+
 # git-conflict
 
 Ceci sont
